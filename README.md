@@ -1,3 +1,7 @@
+# Healthcare
+
+Information about the technical project in README into directory with name "healthcare".
+
 # Pixeon Tech Challenge
 
 Your goal will be to build a REST API which is going to be used as part of pixeon’s solution. The API will take control over the healthcare institution registration as well as the exams ingest. 
